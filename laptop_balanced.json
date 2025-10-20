@@ -1,0 +1,12 @@
+{
+  "name": "laptop_balanced",
+  "description": "Balanced laptop profile - avoids forcing full CPU min to conserve thermals/battery",
+  "recommended_ids": [
+    "power_plan_enable",
+    "visual_best_performance",
+    "service_aggressive_disable",
+    "network_low_latency",
+    "game_mode_gamebar",
+    "background_and_tips"
+  ]
+}

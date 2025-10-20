@@ -1,0 +1,14 @@
+{
+  "name": "gaming",
+  "description": "Aggressive max performance",
+  "recommended_ids": [
+    "power_plan_enable",
+    "cpu_minmax_100",
+    "visual_best_performance",
+    "service_aggressive_disable",
+    "network_low_latency",
+    "game_mode_gamebar",
+    "background_and_tips",
+    "cooling_policy_active"
+  ]
+}
